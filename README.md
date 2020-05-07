@@ -1,2 +1,2 @@
 # three-Demo
-[Play](http://blog.0i0.bid/three.js-Demo/)
+[Play](https://dx-zuo.github.io/three.js-Demo/)
